@@ -10,10 +10,10 @@ Interact with the GUI, it will keep on running until the API or program is termi
 # Imports
 You may need to import a few different python packages in order for this to work
 Required Packages:
-  Flask
-  numpy
-  pandas
-  scikit 
-  joblib
-  traceback
-  matplotlib
+  Flask,
+  numpy,
+  pandas,
+  scikit,
+  joblib,
+  traceback,
+  matplotlib,
