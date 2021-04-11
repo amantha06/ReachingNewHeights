@@ -6,3 +6,14 @@ To run this program, make sure all files are in the same directory and compile a
 First run app.py, either in python or command prompt, in order to begin the API.
 Next run HackTJ.java and you should see a GUI pop up.
 Interact with the GUI, it will keep on running until the API or program is terminated.
+
+# Imports
+You may need to import a few different python packages in order for this to work
+Required Packages:
+  Flask
+  numpy
+  pandas
+  scikit 
+  joblib
+  traceback
+  matplotlib
