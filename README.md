@@ -19,6 +19,6 @@ Required Packages:
   matplotlib,
 
 # Sources
-For help with creating the Flask API, we used the following links \n https://www.datacamp.com/community/tutorials/machine-learning-models-api-python \n https://chillyfacts.com/java-send-http-getpost-request-and-read-json-response/
+For help with creating the Flask API, we used the following links: https://www.datacamp.com/community/tutorials/machine-learning-models-api-python, https://chillyfacts.com/java-send-http-getpost-request-and-read-json-response/
 
-To get our data of heights, we used Galton's data from this link \n https://www.randomservices.org/random/data/Galton.html
+To get our data of heights, we used Galton's data from this link https://www.randomservices.org/random/data/Galton.html
